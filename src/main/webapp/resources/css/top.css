@@ -1,0 +1,126 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.topWrapper{
+    padding:5px;
+    height:10%;
+}
+.firstTopDiv{
+    height:33px;
+    padding: 10px 7px 0px 7px;
+
+}
+.dongDiv{
+    padding-top:3px;
+    width:29%;
+    height:30px;
+    float:left;
+}
+
+.dongDiv p{
+    font-size:15px;
+    font-weight: bold;
+    margin:0px;
+}
+
+.dongDiv #dongName{
+    float:left;
+    margin-right:5px;
+}
+.dongDiv #otherDong{
+    float:left;
+}
+
+.searchDiv{
+    float:left;
+    width:70%;
+    height:30px;
+}
+
+.searchDiv img{
+    float:right;
+    width:20px;
+    height:20px;
+    margin-left:10px;
+}
+
+.secondTopDiv{
+    height:20px;
+    padding:0px 7px 0px 8px;
+}
+
+.secondTopDiv p{
+    margin:0px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.levelDiv{
+    float:left;
+    width:74%;
+    height:20px;
+}
+
+.levelDiv p{
+    float:left;
+}
+
+.levelDiv #level{
+    color:#00a5d6;
+    margin-left:3px;
+    float:left;
+}
+
+.couponInfoDiv{
+    float:right;
+    width:25%;
+    height:20px;
+    padding-left: 2px;
+}
+
+.couponInfoDiv p{
+    float:left;
+}
+.couponInfoDiv #currentCoupon{
+    margin-left:5px;
+    margin-right:3px;
+}
+.couponInfoDiv #maxCoupon{
+    margin-left:3px;
+    color:#b4b4b4;
+}
+
+.bodyWrapper{
+
+}
+
+.contentWrapper{
+    border-top:1px solid #7d7d7d;
+    border-bottom:1px solid #7d7d7d;
+    height: 81.5%;
+    overflow:scroll;
+}
+
+.bottomButtonsDiv{
+    width:100%;
+}
+
+.bottomButton{
+    width:23.5%;
+    text-align:center;
+    vertical-align: middle;
+    float:left;
+    font-size:14px;
+    font-weight:bold;
+    padding-top:10px;
+}
+
+#couponButton{
+    width:25%;
+}
+
+#mypageButton{
+    width:25%;
+}
