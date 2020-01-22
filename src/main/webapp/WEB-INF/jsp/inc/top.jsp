@@ -18,6 +18,7 @@
     <script src="${pageContext.request.contextPath}/resources/js/map.js"></script>
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/top.css">
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/couponlist.css">
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/mycouponlist.css">
     <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=ggrgqn99xd"></script>
 
 </head>

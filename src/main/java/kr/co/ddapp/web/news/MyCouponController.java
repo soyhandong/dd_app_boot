@@ -9,17 +9,8 @@ public class MyCouponController {
 
     @RequestMapping(value="/mycoupon")
     public ModelAndView mycouponList(){
-        ModelAndView mv = new ModelAndView();
-
-        mv.setViewName("mycouponlist");
-        return mv;
-    }
-
-    @RequestMapping(value="/mymap")
-    public ModelAndView myshowMap(){
-        ModelAndView mv = new ModelAndView();
-
-        mv.setViewName("mymap");
-        return mv;
+        ModelAndView mv1 = new ModelAndView();
+        mv1.setViewName("mycouponlist");
+        return mv1;
     }
 }
