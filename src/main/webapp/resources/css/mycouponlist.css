@@ -16,8 +16,8 @@
 }
 
 .mycouponImgDiv{
-    width: 70%;
-    height: 67%;
+    width: 56%;
+    height: 52%;
     text-align: center;
     justify-content: center;
     margin: 1px auto 1px auto;
@@ -37,14 +37,14 @@
 
 .mycouponPlus img{
     width: 50%;
-    height: 50%;
+    height: 45%;
     text-align: center;
 }
 
 .mycouponContentDiv{
     width:100%;
-    height:25%;
-    padding-top:1px;
+    height:37%;
+    padding-top:7px;
     text-align: center;
 }
 
@@ -52,16 +52,16 @@
     margin:0;
     font-weight: bold;
     text-align: center;
+    font-size: 13px;
 }
 
 .mystoreNameDiv{
     width:100%;
-    height:10px;
     text-align: center;
 }
 
 .mystoreNameDiv p{
-    font-size:5px;
+    font-size:10px;
     color:#7c7c7c;
     text-align: center;
 }
@@ -72,6 +72,7 @@
 
 .mycouponBottomDiv{
     width:100%;
+    margin-top: 4px;
 }
 
 .mycouponContent{
