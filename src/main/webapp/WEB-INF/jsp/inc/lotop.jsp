@@ -24,28 +24,5 @@
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
-    <div class="bodyWrapper">
-        <div class="topWrapper">
-            <div class="firstTopDiv">
-                <div class="dongDiv">
-                    <p id="dongName">장성동</p><p id="otherDong">외 2</p>
-                </div>
-                <div class="searchDiv">
-                    <img src="${pageContext.request.contextPath}/resources/img/bell.png"/>
-                    <img src="${pageContext.request.contextPath}/resources/img/filter.png"/>
-                    <img src="${pageContext.request.contextPath}/resources/img/search.png"/>
-                </div>
-            </div>
-            <div class="secondTopDiv">
-                <div class="levelDiv">
-                    <p>레벨</p><p id="level">2</p>
-                </div>
-                <div class="couponInfoDiv">
-                    <p>내 쿠폰함</p>
-                    <p id="currentCoupon">2</p>
-                    <p>/</p>
-                    <p id="maxCoupon">5</p>
-                </div>
-            </div>
-        </div><!--topWrapper-->
-        <div class="contentWrapper">
+<div class="bodyWrapper">
+    <div class="contentWrapper">
