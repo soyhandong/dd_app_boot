@@ -1,0 +1,83 @@
+.reCouponBox{
+    padding: 5%;
+}
+label{
+    font-size: 13px;
+    font-weight: bold;
+    display: block;
+    margin: 4% 0 2% 0;
+}
+.reCouponBox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.reCouponBox input[type="text"],
+.reCouponBox input[type="number"],
+.reCouponBox input[type="password"],
+.reCouponBox input[type="date"]
+{
+    border: none;
+    border-bottom: 1px solid #7c7c7c;
+    outline: none;
+    height: 36px;
+    color: #262626;
+    background: transparent;
+    font-size: 12px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    margin-bottom: 13px;
+}
+.reCouponBox input[type="text"]:focus,
+.reCouponBox input[type="number"]:focus,
+.reCouponBox input[type="password"]:focus,
+.reCouponBox input[type="date"]:focus
+{
+    border-bottom: 1px solid black;
+}
+.inputBox{
+    position: relative;
+}
+.reCouponBox input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 15px;
+    font-weight: inherit;
+    background: black;
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 8%;
+    margin-bottom: 3%;
+}
+button{
+    border-color: black;
+    border-width: thin;
+    height: 5.25%;
+    font-size: 12px;
+    font-weight: inherit;
+    background: white;
+    color: black;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 13%;
+}
+.selectEvent{
+    display: inline-block;
+    width: 45%;
+}
+.selectEvent #event{
+    height: 5%;
+    margin-top: 5%;
+    width: 100%;
+}
+.distinguishCoupon{
+    display: inline-block;
+    width: 45%;
+    margin-left: 7%;
+}
+.distinguishCoupon #coupon_category{
+    height: 5%;
+    margin-top: 5%;
+    width: 100%;
+}

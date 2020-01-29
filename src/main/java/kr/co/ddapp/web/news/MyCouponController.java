@@ -9,8 +9,8 @@ public class MyCouponController {
 
     @RequestMapping(value="/mycoupon")
     public ModelAndView mycouponList(){
-        ModelAndView mv1 = new ModelAndView();
-        mv1.setViewName("mycouponlist");
-        return mv1;
+        ModelAndView mv = new ModelAndView();
+        mv.setViewName("mycouponlist");
+        return mv;
     }
 }

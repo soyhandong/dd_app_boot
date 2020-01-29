@@ -19,7 +19,6 @@
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/top.css">
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/couponlist.css">
     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/mycouponlist.css">
-    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/login.css">
     <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=ggrgqn99xd"></script>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>

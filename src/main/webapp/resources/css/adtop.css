@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.topWrapper{
+    padding:5px;
+    height:10%;
+}
+.firstTopDiv{
+    height:33px;
+    padding: 10px 7px 0px 7px;
+
+}
+.adCouponDiv{
+    padding-top:3px;
+    width:29%;
+    height:30px;
+    float:left;
+}
+
+.adCouponDiv p{
+    font-size:15px;
+    font-weight: bold;
+    margin:0;
+}
+p #adName{
+    font-size:15px;
+    font-weight: bold;
+    margin:0;
+}
+
+.adCouponDiv #adName{
+    float:left;
+    margin-right:5px;
+}
+
+.adCouponDiv #otherDong{
+    float:left;
+}
+
+.secondTopDiv{
+    height:20px;
+    padding:0px 7px 0px 8px;
+}
+
+.secondTopDiv p{
+    margin:0px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.adcouponInfoDiv{
+    float:right;
+    width:25%;
+    height:20px;
+    padding-left: 2px;
+}
+
+.adcouponInfoDiv p{
+    float:left;
+}
+.adcouponInfoDiv #currentCoupon{
+    margin-left:5px;
+    margin-right:3px;
+}
+.adcouponInfoDiv #maxCoupon{
+    margin-left:3px;
+    color:#b4b4b4;
+}
